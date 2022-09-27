@@ -3,7 +3,6 @@
 "status": "burning",
 "name": "Магма",
 "shadow": false,
-"shadowAlpha": 0.0,
 "brightness": 1.2,
 "radius": 250,
 }
