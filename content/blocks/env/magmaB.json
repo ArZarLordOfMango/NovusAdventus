@@ -3,5 +3,5 @@
 "name": "Магма",
 "brightness": 1.2,
 "radius": 250,
-"shadow": False,
+"shadow": false,
 }
