@@ -1,8 +1,6 @@
 {
-"type": "Floor"
+"type": "floor"
 "status": "burning",
 "name": "Магма",
 "shadow": false,
-"brightness": 1.2,
-"radius": 250,
 }
