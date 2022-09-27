@@ -1,7 +1,8 @@
 {
-type: "material",
-name: "[#FFFFFF]Солевой булыжник"
-hardness: 2,
-cost: 1,
-color: "FFFFFF",
+"type": "material",
+"name": "[#FFFFFF]Солевой булыжник"
+"hardness": 2,
+"cost": 1,
+"color": "FFFFFF",
 }
+
