@@ -1,3 +1,4 @@
-{
-itemDrop: salt_rock,
+{ 
+"itemDrop": "salt_rock",
+"playerUnmineable": true
 }
