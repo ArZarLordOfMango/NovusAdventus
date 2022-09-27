@@ -1,4 +1,6 @@
 {
 "walkEffect": "burn",
 "name": "Магма",
+"brightness": 0.9,
+"radius": 200,
 }
