@@ -1,0 +1,4 @@
+{
+type: OreBlock,
+itemDrop: salt_rock,
+}
