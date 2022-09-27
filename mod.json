@@ -1,0 +1,11 @@
+{
+  "name": "novus-adventus",
+  "displayName": "[#a232ed]Novus Adventus",
+  "author": "[#00cc00]A[#00b300]r[#009900]Zar",
+  "description": "◇",
+  "version": "0.1",
+  "hidden": true,
+  "minGameVersion": "105",
+  "dependencies": []
+}
+
