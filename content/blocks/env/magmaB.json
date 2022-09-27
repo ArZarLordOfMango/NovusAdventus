@@ -1,7 +1,8 @@
 {
+"type": "Floor"
 "walkEffect": "burn",
 "name": "Магма",
+"shadow": false,
 "brightness": 1.2,
 "radius": 250,
-"shadow": false,
 }
