@@ -2,4 +2,5 @@
 "type": "floor",
 "status": "burning",
 "name": "Магма",
+"hasShadow": false,
 }
