@@ -1,0 +1,7 @@
+{
+type: material,
+name: "[#FFFFFF]Солевой булыжник"
+hardness: 3,
+cost: 1,
+color: FFFFFF
+}
